@@ -1,0 +1,6 @@
+{
+  "name": "مساعدي الذكي",
+  "description": "تطبيق محادثة متكامل باللغة العربية مع الذكاء الاصطناعي وبدعم كامل لحفظ وتخصيص سجل المحادثات والتعليمات المسبقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
